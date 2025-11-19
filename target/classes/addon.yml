@@ -1,5 +1,0 @@
-name: ChatSplitterAddon
-version: '${project.version}'
-main: de.linushuck.utopia.skyblock.chatsplitteraddon.ChatSplitterAddon
-authors: [ "Linus Huck" ]
-description: ChatSplitterAddon
